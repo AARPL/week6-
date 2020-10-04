@@ -1,0 +1,40 @@
+.hoofdtitel{
+	font-size: 36px;
+	line-height: 36px
+}
+
+.p1{
+	font-size: 24px
+	line-height: 32px
+
+}
+
+.midt{
+	font-size: 32px
+	line-height: 32px
+}
+
+.conting, .contbr{
+	margin-bottom: 40px
+}
+ul li{
+	margin-bottom: 10px
+}
+
+ol li{
+	margin-bottom: 20px
+}
+
+.Tip{
+	background-color:#def6ed;
+	border-radius: 4px
+	margin:40px 0 25px 0;
+	padding: 10px 
+}
+.Tip a{
+	font-size: large;
+}
+.nav{
+	
+ border: 1px;
+}
